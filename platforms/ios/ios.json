@@ -17,7 +17,7 @@
               "count": 1
             },
             {
-              "xml": "<feature name=\"Homework\"><param name=\"ios-package\" value=\"CDVHomework\" /></feature>",
+              "xml": "<feature name=\"Homework\"><param name=\"ios-package\" value=\"Homework\" /></feature>",
               "count": 1
             }
           ]

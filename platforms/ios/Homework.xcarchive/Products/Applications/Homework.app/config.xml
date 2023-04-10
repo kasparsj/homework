@@ -31,6 +31,9 @@
     <feature name="Notification">
         <param name="ios-package" value="CDVNotification" />
     </feature>
+    <feature name="Homework">
+        <param name="ios-package" value="Homework" />
+    </feature>
     <name>Homework</name>
     <description>Sample Apache Cordova App</description>
     <author email="dev@cordova.apache.org" href="https://cordova.apache.org">

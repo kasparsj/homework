@@ -6,9 +6,6 @@
     <feature name="Notification">
         <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
     </feature>
-    <feature name="Homework">
-        <param name="android-package" value="homework.plugin.Homework" />
-    </feature>
     <name>Homework</name>
     <description>Sample Apache Cordova App</description>
     <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
@@ -19,4 +16,7 @@
     <allow-intent href="https://*/*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="GradlePluginKotlinEnabled" value="true" />
+    <feature name="Homework">
+        <param name="android-package" value="homework.plugin.Homework" />
+    </feature>
 </widget>

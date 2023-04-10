@@ -14,13 +14,13 @@
 		302D95F114D2391D003F00A1 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D95EF14D2391D003F00A1 /* MainViewController.m */; };
 		302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 302D95F014D2391D003F00A1 /* MainViewController.xib */; };
 		6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */; };
+		719311F010E246339DD33F51 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CCFBF24552B74EC2B011F844 /* CDVNotification.bundle */; };
+		9DBC4035089F424382B6DFC3 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6709D1318A354653A6A8E303 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		9E0C35874DDE459DA7F0EAB5 /* NativeLog.mm in Sources */ = {isa = PBXBuildFile; fileRef = D8472F2BD5D24BFF872EC7F8 /* NativeLog.mm */; };
 		9F91BB5498144134AE7BD015 /* CDVCppBridge.mm in Sources */ = {isa = PBXBuildFile; fileRef = 17B483ABA83643489B30520D /* CDVCppBridge.mm */; };
 		AA04253F18BF432CAA98AC6A /* TestCpp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8EF14E8A3E3546159A8D124B /* TestCpp.cpp */; };
 		EB4C0DA4208449EAB6E372DB /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 47821A59558249D1A036E6B4 /* CDVNotification.m */; };
-		719311F010E246339DD33F51 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CCFBF24552B74EC2B011F844 /* CDVNotification.bundle */; };
-		9DBC4035089F424382B6DFC3 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6709D1318A354653A6A8E303 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		A2CAE613A7A94AD7A040A6B0 /* CDVHomework.m in Sources */ = {isa = PBXBuildFile; fileRef = DCA955716ACA4B2BBD81E69E /* CDVHomework.m */; };
+		A88D44E7E1C344C1B1A8A772 /* Homework.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7EC1D5A231249B8989CBAF1 /* Homework.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,21 +65,20 @@
 		3047A5101AB8059700498E2A /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "build-release.xcconfig"; path = "cordova/build-release.xcconfig"; sourceTree = SOURCE_ROOT; };
 		3047A5111AB8059700498E2A /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = build.xcconfig; path = cordova/build.xcconfig; sourceTree = SOURCE_ROOT; };
 		32CA4F630368D1EE00C91783 /* Homework-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Homework-Prefix.pch"; sourceTree = "<group>"; };
+		47821A59558249D1A036E6B4 /* CDVNotification.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVNotification.m; path = "cordova-plugin-dialogs/CDVNotification.m"; sourceTree = "<group>"; };
+		6709D1318A354653A6A8E303 /* AudioToolbox.framework */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = CDVLaunchScreen.storyboard; path = Homework/CDVLaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
+		89DA89348546442E9C41293B /* CDVNotification.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVNotification.h; path = "cordova-plugin-dialogs/CDVNotification.h"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Homework-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Homework-Info.plist"; path = "Homework/Homework-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = SOURCE_ROOT; };
 		8EF14E8A3E3546159A8D124B /* TestCpp.cpp */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = TestCpp.cpp; path = "cordova-plugin-cpp-bridge/cpp/TestCpp.cpp"; sourceTree = "<group>"; };
+		CCFBF24552B74EC2B011F844 /* CDVNotification.bundle */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.plug-in"; path = CDVNotification.bundle; sourceTree = "<group>"; };
 		D8472F2BD5D24BFF872EC7F8 /* NativeLog.mm */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = NativeLog.mm; path = "cordova-plugin-cpp-bridge/NativeLog.mm"; sourceTree = "<group>"; };
 		E54BCF52C6F842138525DF71 /* TestCpp.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = TestCpp.h; path = "cordova-plugin-cpp-bridge/cpp/TestCpp.h"; sourceTree = "<group>"; };
 		EB87FDF31871DA8E0020F90C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../../www; sourceTree = "<group>"; };
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		ED33DF2A687741AEAF9F8254 /* Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = Homework/config.xml; sourceTree = "<group>"; };
-		47821A59558249D1A036E6B4 /* CDVNotification.m */ = {isa = PBXFileReference; name = "CDVNotification.m"; path = "cordova-plugin-dialogs/CDVNotification.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		89DA89348546442E9C41293B /* CDVNotification.h */ = {isa = PBXFileReference; name = "CDVNotification.h"; path = "cordova-plugin-dialogs/CDVNotification.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		CCFBF24552B74EC2B011F844 /* CDVNotification.bundle */ = {isa = PBXFileReference; name = "CDVNotification.bundle"; path = "CDVNotification.bundle"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.plug-in; explicitFileType = undefined; includeInIndex = 0; };
-		6709D1318A354653A6A8E303 /* AudioToolbox.framework */ = {isa = PBXFileReference; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		DCA955716ACA4B2BBD81E69E /* CDVHomework.m */ = {isa = PBXFileReference; name = "CDVHomework.m"; path = "cordova-plugin-homework/CDVHomework.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		7001121DE8684959B1832895 /* CDVHomework.h */ = {isa = PBXFileReference; name = "CDVHomework.h"; path = "cordova-plugin-homework/CDVHomework.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		F7EC1D5A231249B8989CBAF1 /* Homework.swift */ = {isa = PBXFileReference; name = "Homework.swift"; path = "cordova-plugin-homework/Homework.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,8 +194,7 @@
 				D8472F2BD5D24BFF872EC7F8 /* NativeLog.mm */,
 				47821A59558249D1A036E6B4 /* CDVNotification.m */,
 				89DA89348546442E9C41293B /* CDVNotification.h */,
-				DCA955716ACA4B2BBD81E69E /* CDVHomework.m */,
-				7001121DE8684959B1832895 /* CDVHomework.h */,
+				F7EC1D5A231249B8989CBAF1 /* Homework.swift */,
 			);
 			name = Plugins;
 			path = Homework/Plugins;
@@ -330,7 +328,7 @@
 				9F91BB5498144134AE7BD015 /* CDVCppBridge.mm in Sources */,
 				9E0C35874DDE459DA7F0EAB5 /* NativeLog.mm in Sources */,
 				EB4C0DA4208449EAB6E372DB /* CDVNotification.m in Sources */,
-				A2CAE613A7A94AD7A040A6B0 /* CDVHomework.m in Sources */,
+				A88D44E7E1C344C1B1A8A772 /* Homework.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,6 +364,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sonarworks.homework;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_WORKSPACE = NO;
 			};
@@ -389,6 +388,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sonarworks.homework;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_WORKSPACE = NO;
 			};
