@@ -1,5 +1,15 @@
 Homework
 
+Cordova based hybrid app with 4 buttons, that:
+
+1. calls native code (shows native alert)
+2. calls native code, that evaluates javascript on WKWebView or CordovaWebView
+3. calls C++ method
+4. calls static C++ method
+
+All the native handlers are packed in a Cordova plugin:
+https://github.com/kasparsj/homework-plugin
+
 To run (tested on MacOS):
 
 - `git clone https://github.com/kasparsj/homework`
