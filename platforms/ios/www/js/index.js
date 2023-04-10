@@ -76,3 +76,19 @@ function native_alert() {
 
     cordova.exec(successHandler, errorHandler, service, action, args);
 }
+
+function exec_js() {
+    function successHandler(message) {
+        console.log('success:', message);
+    }
+
+    function errorHandler(err) {
+        console.log('failed', err);
+    }
+
+    var service = 'Homework';
+    var action = 'callJS';
+    var args = [];
+
+    cordova.exec(successHandler, errorHandler, service, action, args);
+}

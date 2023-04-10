@@ -36,57 +36,53 @@
 		<data>
 		U0x8EM0781fCPb62BbZIXKeDlZ4=
 		</data>
-		<key>CDVNotification.bundle/beep.wav</key>
-		<data>
-		/kSUVvLLJcbtfXnxFEolil3/NRk=
-		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		NH+4yj5gxY9UjqbYNp+1nBUc+zw=
+		CCZH/OtfE58aPS79qux0HCSutMo=
 		</data>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<data>
-		Phmic+uCGyYEK7Q3lmJF/4CdQLI=
+		NeM6vhIV6kubvkIoXrzBFMotGQ4=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		v1zdDIpgcfsBcT6aqG/3nn9QxCk=
+		L2cfpQRsTTX7i9EUpk5z8gn6Zr4=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		MeiKJLQEBrwWh+CXWWQ0tajHw70=
+		fc3JtqL2APsn3a4tAT4o7Gw+4G4=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		Max6wjZTRwbK/WYAZ0UC9KuMV70=
+		MW6aVp8RbnBGvRM2kgNsqJpxK0M=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		ZWiEshhbV6xbPia+I0kzc37j2hc=
+		ZtBuMCOUIiGj1XxIzMLZep9VHbQ=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		Qx/u2gl5Y0n4jyc2y8ep4ONn+HA=
+		rUWA5+/Tery6besqGclOkz2PGkw=
 		</data>
 		<key>Frameworks/libswiftMetal.dylib</key>
 		<data>
-		YPx+Dcj+Afmj36SCcZom8nQ48tk=
+		zYhDpOu/1NGh/3RD9iHCNWyT8Bo=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		7ShRJQk8J+uH4SxGHY1+30OLw5A=
+		BFkti4rx2bsFIwNiXJ/9xAuAE3o=
 		</data>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<data>
-		PNXwFf+aIxwwjtew+uUBmG2MgRU=
+		k8lwVPzLePFdYlUrhgRHLeMfF9Q=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		zv0cSjK5HJui7xo4u0sv02Q2Rl4=
+		+Kh6RTrjuQOp1KV25UsP8OVzAbE=
 		</data>
 		<key>Frameworks/libswiftos.dylib</key>
 		<data>
-		vfZxJ3SBzQsrAH42J93QW0CS/Zo=
+		1iV/fDzAioeQ96wswc7cx6KVdQo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -102,7 +98,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		545hosTenWAKkD85N6b642lCyng=
+		+yR2TT6LEn83BThXtIW6/cAErmI=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -138,7 +134,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		/k4a3wuX2C0w3PGzj6VSZLooKMk=
+		5TCOZ+xPTme22cewv8/NH5uNtyU=
 		</data>
 		<key>www/css/index.css</key>
 		<data>
@@ -150,19 +146,15 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		oDG97FOCDCh6yha/numyS4WaMc0=
+		7R20Qqx0MdKRmZJ9zEk1Zp3bO4U=
 		</data>
 		<key>www/js/index.js</key>
 		<data>
-		4yHH8b0qTMsb5ow+KBrestrvf1Y=
+		iqiGKNEO7NeCPLxK74Fro1ROm3w=
 		</data>
 		<key>www/plugins/cordova-plugin-cpp-bridge/www/CDVCppBridge.js</key>
 		<data>
 		wdVBMchRi31Bweko/d+Q4k6aQnM=
-		</data>
-		<key>www/plugins/cordova-plugin-dialogs/www/notification.js</key>
-		<data>
-		GoZQMY+HEfyTy/VJLOhWLIqXspo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -223,95 +215,88 @@
 			cWq7q+iQcmpSoaFGecnyPdKFEPFwRD3slgUmxFADkVs=
 			</data>
 		</dict>
-		<key>CDVNotification.bundle/beep.wav</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KfYd4hFlyPwinBGKi4ruYae1MyeQ2TKrPJvIngKdC38=
-			</data>
-		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F7NIrf4vdX67LNFfWkKeQVCwvWeEOTXkdXwqJvDICHI=
+			QATjUwS7FuX+vDLPXyjya5/W0GxpMV+do55DtmUA4Pk=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P8LRKASUWz+hRYs31EFYjELF5at0L/ikf6VbP8sXa7Q=
+			jvPZUCJxYVypw5Anzp8bLLFdYsipNluDJt4wNtbaM+g=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UBSFyCMzgXrj4p208gpQszDk60j0g2cTpZEFyhwR8Fs=
+			zt1xlqip2HRILr7cpzWEesXIjZBJmuXSFhfJ5Bdy1IE=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5+B3c4QN4Iuz908a+FjpPeFMl+vQQcaGa68VZAtezoQ=
+			xDfx5+bTN/ijmnXh80ZQhKTpOJjmG/W+l6Viaczn4rY=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o429YVN6U5oDQLLbrxREk+dzLYeNwAuYpdtoFAkecmA=
+			03RPsbjCllKQpJF6miKMCPbFqiyhx8pezf34lHZjOv4=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AOkf7B1aG5p4TK1ycgDVfvFudq0dTuepn4OoNKTLAc8=
+			ilrqPWovHKlcLSjYexR85EjBisiGY6e25bE6AwPPF0A=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uWOWl7FTrBQWeU/wMePkMOFNlvrnUftIP1HBUZM/Ng0=
+			zx9jgBMMFJKxQKg7RXzTQj59A2glsKGmADua0H3S9P4=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftMetal.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4fdvvWpwQT36FszP6Y6a5YCO1Xgnk72G+ZGptGJXiVw=
+			LcLlCbDocxg+a9eY4urs9JidiXoc3KwijlYAfZE0GRM=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zu7jzyv3r0sUSfK9DSzetvE6SljZV/9V4IkCEm2wWxo=
+			8N/v6TGtaFz7Iv8NE4xt2Vbu+r/NOL3+CyjPIjDuVHY=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4x6asB3L65rS5htk1qvmlH4qJesDHZ96YX95P1B0NTU=
+			MXEEhcQ2dkkSuJnzWUhPGMVO7hOUVQBNI5pEt1xxFOA=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1hyqW1l8SMfpnfUYc1YdaRdvM7IuKMM7BeXpW57FHM0=
+			G9bGg1EGBuwScsRKQEU/QTOpQCiSCdy4eDPcCiDHet4=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftos.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Se82AwxrFVYsHrPHbdrwxV1gOIJ7d7btJBLlXiPVDTk=
+			VUXlS+13YzgALXBF/fWXDU1Dvt9jkmEDuScAtYWnml4=
 			</data>
 		</dict>
 		<key>MainViewController.nib</key>
@@ -325,7 +310,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W0MN5gyOaY5ilgFJNGTjWCe39C3PRTN7aFvSA1H5oMs=
+			4S5N/neoY/l0gphZKdlBEDca9bs4Tkw+nwlZORATk8o=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -388,7 +373,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sDpYh7gEkch0sBzTKzUpq9/zKGHwr9izzlE7Y1AS+vA=
+			jSx/YobwWwU2CsQakTd8jATyTm2iv6oCxC5QcAVMWv8=
 			</data>
 		</dict>
 		<key>www/css/index.css</key>
@@ -409,14 +394,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QrF3qcwh94JtW6BbixDLwrufaaxyID9BJ2j7LepFUnA=
+			1+JXRLe14ioT2+QKz3sUkhK+NOSeN3QiFE+f/tk8R+4=
 			</data>
 		</dict>
 		<key>www/js/index.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G6LPQKo5AWR8Hzr2Z2CS5bKFq9XNddpJN7bjETIyv+g=
+			0QxfvD1W3KL2BqonJ13WvxTG1eYwZiT8ohKF43Ul8JQ=
 			</data>
 		</dict>
 		<key>www/plugins/cordova-plugin-cpp-bridge/www/CDVCppBridge.js</key>
@@ -424,13 +409,6 @@
 			<key>hash2</key>
 			<data>
 			9dhTnyI2i6pBc6iN9zGpW/ErcU4QgHEdeZOldFyGRJg=
-			</data>
-		</dict>
-		<key>www/plugins/cordova-plugin-dialogs/www/notification.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bU/7xqqI577hPiQaZHxgk7ecGmr9yebQZ9QScTx9HkE=
 			</data>
 		</dict>
 	</dict>

@@ -1,3 +1,5 @@
+import WebKit
+
 @objc(Homework) class Homework : CDVPlugin {
   @objc(alert:) func alert(command: CDVInvokedUrlCommand) {
     var pluginResult = CDVPluginResult(
@@ -50,4 +52,10 @@
       callbackId: command.callbackId
     )
   }
+
+  @objc(callJS:) func callJS(command: CDVInvokedUrlCommand) {
+          if let vc = self.viewController as? CDVViewController, let webView = vc.webView as? WKWebView {
+              webView.evaluateJavaScript("alert('called from native')", completionHandler: nil)
+          }
+      }
 }
