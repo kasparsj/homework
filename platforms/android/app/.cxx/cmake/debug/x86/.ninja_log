@@ -41,3 +41,15 @@
 0	57	1681157043	CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o	b08e260b90efc08f
 0	71	1681157043	CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o	f3fe53c2e1bcf6e1
 71	126	1681157043	/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86/libcordova-cpp-bridge-lib.so	604a584fe834d067
+0	70	1681161231	CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o	b08e260b90efc08f
+0	79	1681161231	CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o	f3fe53c2e1bcf6e1
+79	171	1681161231	/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86/libcordova-cpp-bridge-lib.so	604a584fe834d067
+0	71	1681161676	CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o	b08e260b90efc08f
+0	74	1681161676	CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o	f3fe53c2e1bcf6e1
+74	164	1681161676	/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86/libcordova-cpp-bridge-lib.so	604a584fe834d067
+0	70	1681161769	CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o	b08e260b90efc08f
+0	77	1681161769	CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o	f3fe53c2e1bcf6e1
+77	167	1681161769	/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86/libcordova-cpp-bridge-lib.so	604a584fe834d067
+0	65	1681161854	CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o	b08e260b90efc08f
+0	73	1681161854	CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o	f3fe53c2e1bcf6e1
+73	182	1681161854	/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86/libcordova-cpp-bridge-lib.so	604a584fe834d067
