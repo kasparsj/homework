@@ -28,10 +28,6 @@ function onDeviceReady() {
     document.getElementById('deviceready').classList.add('ready');
 }
 
-function native_alert() {
-    navigator.notification.alert('native alert');
-}
-
 function cpp_member() {
     cpp.TestCpp.new(function(testCpp) {
         testCpp.testMethod(999, "message", 1.111, true, function(ret) {
@@ -47,17 +43,35 @@ function cpp_static() {
 
 function my_plugin() {
     function successHandler(message) {
-        alert('success:', message);
+        console.log('success:', message);
     }
 
     function errorHandler(err) {
-        alert('failed', err);
+        console.log('failed', err);
     }
 
     var service = 'Homework';
     var action = 'echo';
     var args = [
         'Test Message'
+    ];
+
+    cordova.exec(successHandler, errorHandler, service, action, args);
+}
+
+function native_alert() {
+    function successHandler(message) {
+        console.log('success:', message);
+    }
+
+    function errorHandler(err) {
+        console.log('failed', err);
+    }
+
+    var service = 'Homework';
+    var action = 'alert';
+    var args = [
+        'My title', 'My message'
     ];
 
     cordova.exec(successHandler, errorHandler, service, action, args);
