@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-cpp-bridge": {
+      "PACKAGE_NAME": "cc.kaspars.homework"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "sonarworks.homework"
+    },
+    "cordova-plugin-homework": {
+      "PACKAGE_NAME": "sonarworks.homework"
+    }
+  },
+  "dependent_plugins": {}
+}

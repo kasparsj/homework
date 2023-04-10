@@ -1,0 +1,34 @@
+{
+  "name": "cc.kaspars.homework",
+  "displayName": "Homework",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^10.1.2",
+    "cordova-ios": "^6.2.0",
+    "cordova-plugin-cpp-bridge": "github:pawelzwronek/cordova-plugin-cpp-bridge",
+    "cordova-plugin-dialogs": "github:apache/cordova-plugin-dialogs",
+    "cordova-plugin-echo": "file:../cordova-plugin-homework",
+    "cordova-plugin-homework": "file:../cordova-plugin-homework"
+  },
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-cpp-bridge": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-homework": {}
+    }
+  }
+}

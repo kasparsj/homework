@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.4.1)
+add_library(cordova-cpp-bridge-lib SHARED /*SOURCE_FILES*/)
+target_link_libraries(cordova-cpp-bridge-lib log)
+set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -O3")
+set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -DDEBUG")
+# set(CMAKE_SHARED_LINKER_FLAGS_RELEASE  "${CMAKE_SHARED_LINKER_FLAGS_RELEASE} -Wl,-g0")

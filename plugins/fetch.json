@@ -1,0 +1,26 @@
+{
+  "cordova-plugin-cpp-bridge": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/pawelzwronek/cordova-plugin-cpp-bridge"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-dialogs": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/apache/cordova-plugin-dialogs"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-homework": {
+    "source": {
+      "type": "local",
+      "path": "/Users/kasparsj/Desktop/sonarworks/homework/node_modules/cordova-plugin-homework"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
