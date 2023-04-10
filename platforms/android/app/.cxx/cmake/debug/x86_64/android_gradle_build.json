@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/kasparsj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/kasparsj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "cordova-cpp-bridge-lib-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/kasparsj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/x86_64",
+        "cordova-cpp-bridge-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "cordova-cpp-bridge-lib",
+      "output": "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86_64/libcordova-cpp-bridge-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

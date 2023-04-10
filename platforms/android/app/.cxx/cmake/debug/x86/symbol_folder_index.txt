@@ -1,0 +1,1 @@
+/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/x86

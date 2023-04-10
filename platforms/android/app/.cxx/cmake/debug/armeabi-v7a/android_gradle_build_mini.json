@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/kasparsj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/kasparsj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "cordova-cpp-bridge-lib-Debug-armeabi-v7a": {
+      "artifactName": "cordova-cpp-bridge-lib",
+      "buildCommandComponents": [
+        "/Users/kasparsj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/armeabi-v7a",
+        "cordova-cpp-bridge-lib"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libcordova-cpp-bridge-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

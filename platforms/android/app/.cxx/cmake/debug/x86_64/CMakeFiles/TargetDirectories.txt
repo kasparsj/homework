@@ -1,0 +1,3 @@
+/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/cordova-cpp-bridge-lib.dir

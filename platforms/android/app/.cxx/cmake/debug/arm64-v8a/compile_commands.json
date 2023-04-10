@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/kasparsj/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android22 --gcc-toolchain=/Users/kasparsj/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kasparsj/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcordova_cpp_bridge_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -DDEBUG -fPIC   -o CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o -c /Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/cpp/TestCpp.cpp",
+  "file": "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/cpp/TestCpp.cpp"
+},
+
+{
+  "directory": "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/kasparsj/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android22 --gcc-toolchain=/Users/kasparsj/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kasparsj/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcordova_cpp_bridge_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -DDEBUG -fPIC   -o CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o -c /Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/cpp/CDVCppBridge.cpp",
+  "file": "/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/cpp/CDVCppBridge.cpp"
+}
+]

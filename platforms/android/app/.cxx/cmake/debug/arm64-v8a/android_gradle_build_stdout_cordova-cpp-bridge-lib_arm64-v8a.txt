@@ -1,0 +1,4 @@
+ninja: Entering directory `/Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/.cxx/cmake/debug/arm64-v8a'
+[1/3] Building CXX object CMakeFiles/cordova-cpp-bridge-lib.dir/TestCpp.cpp.o
+[2/3] Building CXX object CMakeFiles/cordova-cpp-bridge-lib.dir/CDVCppBridge.cpp.o
+[3/3] Linking CXX shared library /Users/kasparsj/Desktop/sonarworks/homework/platforms/android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libcordova-cpp-bridge-lib.so
