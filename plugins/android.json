@@ -15,6 +15,9 @@
     },
     "cordova-plugin-homework": {
       "PACKAGE_NAME": "sonarworks.homework"
+    },
+    "cordova-plugin-add-swift-support": {
+      "PACKAGE_NAME": "sonarworks.homework"
     }
   },
   "dependent_plugins": {}

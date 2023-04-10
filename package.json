@@ -29,7 +29,11 @@
     "plugins": {
       "cordova-plugin-cpp-bridge": {},
       "cordova-plugin-dialogs": {},
-      "cordova-plugin-homework": {}
+      "cordova-plugin-homework": {},
+      "cordova-plugin-add-swift-support": {}
     }
+  },
+  "dependencies": {
+    "cordova-plugin-add-swift-support": "2.0.2"
   }
 }

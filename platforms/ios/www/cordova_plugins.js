@@ -20,6 +20,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
   module.exports.metadata = {
     "cordova-plugin-cpp-bridge": "0.0.7",
     "cordova-plugin-dialogs": "3.0.0-dev",
-    "cordova-plugin-homework": "1.0.0"
+    "cordova-plugin-homework": "1.0.0",
+    "cordova-plugin-add-swift-support": "2.0.2"
   };
 });
