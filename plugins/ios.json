@@ -10,9 +10,6 @@
     "cordova-plugin-cpp-bridge": {
       "PACKAGE_NAME": "cc.kaspars.homework"
     },
-    "cordova-plugin-dialogs": {
-      "PACKAGE_NAME": "sonarworks.homework"
-    },
     "cordova-plugin-homework": {
       "PACKAGE_NAME": "sonarworks.homework"
     },

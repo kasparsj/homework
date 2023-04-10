@@ -13,10 +13,6 @@
               "count": 1
             },
             {
-              "xml": "<feature name=\"Notification\"><param name=\"ios-package\" value=\"CDVNotification\" /></feature>",
-              "count": 1
-            },
-            {
               "xml": "<feature name=\"Homework\"><param name=\"ios-package\" value=\"Homework\" /></feature>",
               "count": 1
             }
@@ -28,9 +24,6 @@
   "installed_plugins": {
     "cordova-plugin-cpp-bridge": {
       "PACKAGE_NAME": "cc.kaspars.homework"
-    },
-    "cordova-plugin-dialogs": {
-      "PACKAGE_NAME": "sonarworks.homework"
     },
     "cordova-plugin-homework": {
       "PACKAGE_NAME": "sonarworks.homework"
@@ -48,19 +41,10 @@
       "clobbers": [
         "cpp"
       ]
-    },
-    {
-      "id": "cordova-plugin-dialogs.notification",
-      "file": "plugins/cordova-plugin-dialogs/www/notification.js",
-      "pluginId": "cordova-plugin-dialogs",
-      "merges": [
-        "navigator.notification"
-      ]
     }
   ],
   "plugin_metadata": {
     "cordova-plugin-cpp-bridge": "0.0.7",
-    "cordova-plugin-dialogs": "3.0.0-dev",
     "cordova-plugin-homework": "1.0.0",
     "cordova-plugin-add-swift-support": "2.0.2"
   }

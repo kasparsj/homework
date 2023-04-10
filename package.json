@@ -17,7 +17,6 @@
     "cordova-android": "^10.1.2",
     "cordova-ios": "^6.2.0",
     "cordova-plugin-cpp-bridge": "github:pawelzwronek/cordova-plugin-cpp-bridge",
-    "cordova-plugin-dialogs": "github:apache/cordova-plugin-dialogs",
     "cordova-plugin-echo": "file:../cordova-plugin-homework",
     "cordova-plugin-homework": "file:../cordova-plugin-homework"
   },
