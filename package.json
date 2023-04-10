@@ -27,7 +27,6 @@
     ],
     "plugins": {
       "cordova-plugin-cpp-bridge": {},
-      "cordova-plugin-dialogs": {},
       "cordova-plugin-homework": {},
       "cordova-plugin-add-swift-support": {}
     }
